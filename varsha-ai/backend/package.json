@@ -1,5 +1,4 @@
 {
-  "type":"module",
   "scripts": {
     "dev": "nodemon --watch src --exec tsx ./src/server.ts",
     "build": "tsc",
