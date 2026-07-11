@@ -1,0 +1,55 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Build output
+dist/
+build/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Test coverage
+coverage/
+
+# Runtime data
+tmp/
+temp/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Nodemon
+.nodemon.json
+
+# Uploads / user generated files
+uploads/
+
+# Local databases
+*.sqlite
+*.db
+
+# Debug files
+*.pid
+*.seed
+
+# Certificates / keys
+*.pem
+*.key
+*.crt
