@@ -3,7 +3,6 @@ import profileRoutes from "./routes/profile.routes";
 import weatherRoutes from "./routes/weather.routes";
 import aiRoutes from "./routes/ai.routes";
 import dashboardRoutes from "./routes/dashboard.routes";
-import profileRoutes from "./routes/profile.routes";
 
 import express, { Request, Response } from "express";
 import cors from "cors";
